@@ -1,2 +1,2 @@
 # bootstrap-alura
-Learning to use bootstrap to build a responsive single-page with Alura Courses Online.
+Learning to use bootstrap to build a responsive single-page application with Alura Courses Online.
